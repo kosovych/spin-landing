@@ -40,7 +40,7 @@ const Wheel = () => {
                     <div className="wheel-inner-4" />
                     <div className="wheel-inner-5" />
                     <div className="wheel-arrow">
-                        <img src="../../../public/assets/icons/wheel-arrow.svg" alt="" />
+                        <img src="assets/icons/wheel-arrow.svg" alt="" />
                     </div>
                 <div
                     className="wheel"
